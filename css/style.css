@@ -183,3 +183,7 @@ legend{
     font-weight:bold;
   }
 }
+a{
+  cursor: pointer;
+}
+

@@ -1,4 +1,3 @@
-
 <?php
 	require 'includes/head.php';
 	require 'includes/nav.php';
@@ -16,7 +15,7 @@
 				<div class="info">
 					<strong>
 						<h2>Name</h2>
-						<h3>Post</h3>
+						<h3>Date of Missing</h3>
 					</strong>					
 				</div>
 				<br>
@@ -26,7 +25,7 @@
 				<div class="info">
 					<strong>
 						<h2>Name</h2>
-						<h3>Post</h3>
+						<h3>Date of Missing</h3>
 					</strong>					
 				</div>
 				<br>
@@ -36,7 +35,7 @@
 				<div class="info">
 					<strong>
 						<h2>Name</h2>
-						<h3>Post</h3>
+						<h3>Date of Missing</h3>
 					</strong>					
 				</div>
 				<br>
@@ -46,7 +45,7 @@
 				<div class="info">
 					<strong>
 						<h2>Name</h2>
-						<h3>Post</h3>
+						<h3>Date of Missing</h3>
 					</strong>					
 				</div>
 				<br>
@@ -56,7 +55,7 @@
 				<div class="info">
 					<strong>
 						<h2>Name</h2>
-						<h3>Post</h3>
+						<h3>Date of Missing</h3>
 					</strong>					
 				</div>
 				<br>
@@ -66,14 +65,14 @@
 				<div class="info">
 					<strong>
 						<h2>Name</h2>
-						<h3>Post</h3>
+						<h3>Date of Missing</h3>
 					</strong>					
 				</div>
 				<br>
 			</div>
 		</div>
 	</div>
-</body>
+
 <?php
 	require 'includes/footer.php';
 ?>
