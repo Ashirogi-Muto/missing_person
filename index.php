@@ -72,7 +72,7 @@
 			</div>
 		</div>
 	</div>
-
+</body>
 <?php
 	require 'includes/footer.php';
 ?>

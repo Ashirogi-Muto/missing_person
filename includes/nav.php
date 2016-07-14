@@ -11,7 +11,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li><a class="home">Home</a></li>
-        <li><a href="#" data-toggle="modal" data-target="#postPerson">Post</a></li>
+        <li><a id="post">Post</a></li>
         <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Find
         <span class="caret"></span></a>
