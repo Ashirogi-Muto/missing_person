@@ -55,7 +55,7 @@
 	        <label for="name">Date of Missing:</label>
 	        <input type="date" name="dom" class="form-control" id="date" required>
 	        <label for="name">General Information</label>
-	        <textarea type="text" name="info" class="form-control" id="info" required></textarea>
+	        <textarea type="text" name="info" class="form-control" id="info" required></textarea><br>
 	        <button class="btn btn-success" name="submit" id="submit">Submit</button>
 	   	</form>
 	</div>
