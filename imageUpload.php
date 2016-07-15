@@ -1,3 +1,0 @@
-<?php
-	$targetFolder = "img/";
-?>
